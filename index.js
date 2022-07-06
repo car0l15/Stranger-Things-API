@@ -40,5 +40,3 @@ app.get('/', (req, res) => {
 app.listen(PORT || 3000, () => {
   console.log(`Escutando na porta ${PORT}`);
 });
-
-
