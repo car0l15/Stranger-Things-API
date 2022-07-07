@@ -18,7 +18,7 @@ o front-end foi buildado com ajuda de um buildpack auxiliar.
 ## Clone
 Para ter este código em sua máquina basta ir ao seu terminal do seu ambiente e inserir o comando:
 
-git clone git@github.com:car0l15/Stranger-Things-API.git
-cd Stranger-Things-API
-npm install
-npm start para iniciar a API.
+- git clone git@github.com:car0l15/Stranger-Things-API.git 
+- cd Stranger-Things-API
+- npm install
+- npm start para iniciar a API.
