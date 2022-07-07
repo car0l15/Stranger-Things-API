@@ -1,9 +1,24 @@
-# Boas vindas ao repositório backend do projeto de Deploy - Stranger Things!
+## Sobre
 
-Aqui você vai encontrar os locais para colocar suas repostas relativas aos requisitos de backend.
+Está é uma API sobre os personagens de Stranger Things,
+ela lista os personages e mostra sua atual situação na série,
+existe apenas um get nesta aplicaçã e sua funcionalidade mais 
+legal vem da função hereIsTheUpsideDown, que quando falsa mostra os
+dados normais e comumente apresentados, quando true mostra
+os dados de cabeça para baixo, representando o mundo invertido.
 
-**Lembre-se**: coloque as respostas apenas dos requisitos que contém o seguinte direcionamento:
+Para acessar o deply da aplicação basta verificar os links a seguir,
+https://car0l15-up.herokuapp.com   // mostra os dados normais.
+https://car0l15-dw.herokuapp.com   // mostra os dados invertidos.
+https://car0l15-ft.herokuapp.com  // front-end simples feito com as API's acima.
 
-  - Adicione os comandos utilizados, de maneira sequencial, ao README do backend.
+O deploy foi feito no Heroku. O back-end foi buildado a partir do Dockerfile e
+o front-end foi buildado com ajuda de um buildpack auxiliar.
 
-**Nota**: Este direcionamento está presente no [repositório](https://github.com/betrybe/sd-0x-stranger-things) em que os requisitos do projeto são destrinchados.
+## Clone
+Para ter este código em sua máquina basta ir ao seu terminal do seu ambiente e inserir o comando:
+
+git clone git@github.com:car0l15/Stranger-Things-API.git
+cd Stranger-Things-API
+npm install
+npm start para iniciar a API.
