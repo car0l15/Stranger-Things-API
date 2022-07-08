@@ -1,7 +1,8 @@
 ## Sobre
 
-Está é uma API sobre os personagens de Stranger Things,
-ela lista os personages e mostra sua atual situação na série,
+Esta é uma API sobre os personagens de Stranger Things.
+
+Ela lista os personages e mostra sua atual situação na série.
 existe apenas um get nesta aplicaçã e sua funcionalidade mais 
 legal vem da função hereIsTheUpsideDown, que quando falsa mostra os
 dados normais e comumente apresentados, quando true mostra
@@ -16,7 +17,7 @@ O deploy foi feito no Heroku. O back-end foi buildado a partir do Dockerfile e
 o front-end foi buildado com ajuda de um buildpack auxiliar.
 
 ## Clone
-Para ter este código em sua máquina basta ir ao seu terminal do seu ambiente e inserir o comando:
+Para ter este código em sua máquina basta ir ao terminal do seu ambiente e inserir o comando:
 
 - git clone git@github.com:car0l15/Stranger-Things-API.git 
 - cd Stranger-Things-API
