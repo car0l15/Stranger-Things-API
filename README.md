@@ -8,13 +8,10 @@ legal vem da função hereIsTheUpsideDown, que quando falsa mostra os
 dados normais e comumente apresentados, quando true mostra
 os dados de cabeça para baixo, representando o mundo invertido.
 
-Para acessar o deply da aplicação basta verificar os links a seguir,
-- https://car0l15-up.herokuapp.com   // mostra os dados normais.
-- https://car0l15-dw.herokuapp.com   // mostra os dados invertidos.
-- https://car0l15-ft.herokuapp.com  // front-end simples feito com as API's acima.
-
-O deploy foi feito no Heroku. O back-end foi buildado a partir do Dockerfile e
-o front-end foi buildado com ajuda de um buildpack auxiliar.
+Inicialmente deploy foi feito no Heroku, porém com a monetização da plataforma o deploy acabou sendo excluido. 
+O código ainda pode ser buildado localmente.
+O back-end foi buildado a partir do Dockerfile.
+O front-end foi buildado com ajuda de um buildpack auxiliar.
 
 ## Clone
 
